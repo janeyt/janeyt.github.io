@@ -1,0 +1,106 @@
+<html>
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <title>What Bob Wore</title>
+      <meta charset="utf-8">
+      <link href="css/costume.css" rel="stylesheet">
+   </head>
+   <body>
+      <div class="page">
+         <div class="bannerArea">What Bob Wore: A Sartorial Appreciation of the Notable Costumes
+            Worn by Robert De Niro in Martin Scorsese’s Films
+         </div>
+         <div class="localNavArea">
+            <p style="margin-left: 10px;margin-top:0px;margin-bottom:0px;">All Eras</p>
+            <p style="margin-left: 25px;margin-top:0px;margin-bottom:0px;">Period Film</p>
+            <p style="margin-left: 40px;margin-top:0px;margin-bottom:0px;">Formal Wear</p>
+            <p style="margin-left: 50px;margin-top:0px;margin-bottom:0px;"><a href="Jimmy2_hierarchy.html">Musical Takes a Dark Turn</a></p>
+            <p style="margin-left: 50px;margin-top:0px;margin-bottom:0px;"><a href="Jake2_hierarchy.html">Hubris: The Aftermath of Fame</a></p>
+            <p style="margin-left: 40px;margin-top:0px;margin-bottom:0px;">Casual Dress</p>
+            <p style="margin-left: 50px;margin-top:0px;margin-bottom:0px;"><a href="Jimmy1_hierarchy.html">V-Day Meet-Cute</a></p>
+            <p style="margin-left: 50px;margin-top:0px;margin-bottom:0px;"><a href="Jake1_hierarchy.html">In the Ring</a></p>
+            <p style="margin-left: 25px;margin-top:0px;margin-bottom:0px;">Non-Period Film</p>
+            <p style="margin-left: 40px;margin-top:0px;margin-bottom:0px;">Formal Wear</p>
+            <p style="margin-left: 50px;margin-top:0px;margin-bottom:0px;"><a href="Rupert1_hierarchy.html">Rupert: Armchair Comedian in his Mother's House</a></p>
+            <p style="margin-left: 50px;margin-top:0px;margin-bottom:0px;"><a href="Rupert2_hierarchy.html">Can't Take No For an Answer</a></p>
+            <p style="margin-left: 50px;margin-top:0px;margin-bottom:0px;"><a href="Rupert3_hierarchy.html">Amateur Goes Rogue- And Kills It</a></p>
+            <p style="margin-left: 40px;margin-top:0px;margin-bottom:0px;">Casual Dress</p>
+            <p style="margin-left: 50px;margin-top:0px;margin-bottom:0px;"><a href="Johnny1_hierarchy.html">Tiny Hat Intro: Our first look at Bob in Marty's Films</a></p>
+            <p style="margin-left: 50px;margin-top:0px;margin-bottom:0px;"><a href="Johnny2_hierarchy.html">Rakish grin, terrible hair</a></p>
+            <p style="margin-left: 50px;margin-top:0px;margin-bottom:0px;"><a href="Travis1_hierarchy.html">NYC Loner</a></p>
+            <p style="margin-left: 50px;margin-top:0px;margin-bottom:0px;"><a href="Travis2_hierarchy.html">We ARE the People</a></p>
+            <p style="margin-left: 50px;margin-top:0px;margin-bottom:0px;"><a href="Max1_hierarchy.html">The Illustrated Man Behind Bars</a></p>
+            <p style="margin-left: 50px;margin-top:0px;margin-bottom:0px;"><a href="Max2_hierarchy.html">Freedom</a></p>
+            <p style="margin-left: 50px;margin-top:0px;margin-bottom:0px;"><a href="Max3_hierarchy.html">Stalking Continues</a></p>
+            <p style="margin-left: 50px;margin-top:0px;margin-bottom:0px;"><a href="Max4_hierarchy.html">Loud Moviegoer</a></p>
+         </div>
+         <div class="contentArea">
+            <h1>We ARE the People</h1>
+            <div class="fullViewContainer">
+               <div class="fullViewImageContainer">
+                  <p><a href="images/TaxiDriver3.jpg" target="new window"><img src="images/TaxiDriver3.jpg" class="fullViewImage"></a></p>
+                  <p><a href="images/TaxiDriver2.jpg" target="new window"><img src="images/TaxiDriver2.jpg" class="fullViewImage"></a></p>
+               </div>
+               <div class="fullViewDetails">
+                  <ul></ul>
+                  <p><b>Film Details:</b></p>
+                  <ul>
+                     <li>Film Title: Taxi Driver</li>
+                     <li>Film Year: 1976</li>
+                     <li>Character Name: Travis Bickle</li>
+                     <li>Cinematography: colorFilm</li>
+                     <li>Scorsese Cameo? true</li>
+                  </ul>
+                  <p><b>Here is more information about the costume and how it informs the
+                        character:</b></p>
+                  <ul>
+                     <li>Clothing Articles: Gun holster, white collared shirt, army surplus jacket</li>
+                     <li>Hairstyle: Messy hair begets a mohawk</li>
+                     <li>Props: Many guns, aviator sunglasses, Gov. Palantine campaign button</li>
+                     <li>Costume Style: 
+                        
+                        
+                     </li>
+                     <li>Facial Hair? false</li>
+                     <li>Bare Chested? true</li>
+                     <li>Tattoos? false</li>
+                     <li>Headwear? false</li>
+                  </ul>
+                  
+                  <ul>
+                     
+                     <li>Aggressive machismo</li>
+                     
+                     <li><i>violent</i>confrontation
+                     </li>
+                     
+                  </ul>
+                  
+                  <p class="figure"><img src="http://www.imdb.com/title/tt0075314/?ref_=nv_sr_1" alt=""></p>
+                  <p class="figure_caption"></p>
+                  
+                  <p class="body">One of the most iconic movie costumes of all time (referenced most recently by
+                     Zac Efron’s character in <i>Neighbors</i>), Travis pledges to save 12-year-old
+                     prostitute Iris (Jody Foster) by taking down her john, played by Harvey Keitel.
+                     To accomplish this, Travis stockpiles a veritable horde of firearms, muscles up,
+                     shaves his hair into a mohawk, dons aviator shades, and adorns his army fatigues
+                     with a Gov. Palatine button. To paraphrase Jay Pritchett (played by Ed O’Neill)
+                     on <i>Modern Family</i>, this is his Vietnam- and he was <b xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">in</b> Vietnam. This
+                     transformation into a street justice vigilante would be impossible without an
+                     external physical change, sartorially, physically and follicularly.
+                  </p>
+                  
+                  <p style="color:Red">Did you know? Now an unforgettable movie line, Bob
+                     completely improvised the “You talkin’ to me?” monologue.
+                  </p>
+                  
+                  <h3>See Also:</h3>
+                  <ul>
+                     <li><a href="Johnny2_hierarchy.html">Rakish grin, terrible hair</a></li>
+                  </ul>
+               </div>
+            </div>
+         </div>
+      </div>
+   </body>
+</html>
